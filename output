@@ -1,0 +1,41 @@
+clang++-4.0, 	fold, 	best_case, 	light, 	prop,  	0.0799858093262
+clang++-4.0, 	fold, 	best_case, 	light, 	std, , 	0.0519179821014
+clang++-4.0, 	fold, 	worse_case, 	light, 	prop,  	0.0799645185471
+clang++-4.0, 	fold, 	worse_case, 	light, 	std, , 	0.452309560776
+
+clang++-4.0, 	bools, 	best_case, 	light, 	prop,  	0.0894376754761
+clang++-4.0, 	bools, 	best_case, 	light, 	std, , 	0.0656094551086
+clang++-4.0, 	bools, 	worse_case, 	light, 	prop,  	0.0848569631577
+clang++-4.0, 	bools, 	worse_case, 	light, 	std, , 	0.51480050087
+
+clang++-4.0, 	fold, 	best_case, 	heavy, 	prop,  	4.97285599709
+clang++-4.0, 	fold, 	best_case, 	heavy, 	std, , 	0.0674763917923
+clang++-4.0, 	fold, 	worse_case, 	heavy, 	prop,  	4.93631417751
+clang++-4.0, 	fold, 	worse_case, 	heavy, 	std, , 	5.47409479618
+
+clang++-4.0, 	bools, 	best_case, 	heavy, 	prop,  	4.93707258701
+clang++-4.0, 	bools, 	best_case, 	heavy, 	std, , 	0.0670728445053
+clang++-4.0, 	bools, 	worse_case, 	heavy, 	prop,  	4.81143839359
+clang++-4.0, 	bools, 	worse_case, 	heavy, 	std, , 	4.39139928818
+
+
+g++-6, 	fold, 	best_case, 	light, 	prop,  	0.0845336437225
+g++-6, 	fold, 	best_case, 	light, 	std, , 	0.0320713043213
+g++-6, 	fold, 	worse_case, 	light, 	prop,  	0.0908587217331
+g++-6, 	fold, 	worse_case, 	light, 	std, , 	0.44876127243
+
+g++-6, 	bools, 	best_case, 	light, 	prop,  	0.0746897935867
+g++-6, 	bools, 	best_case, 	light, 	std, , 	0.0321579694748
+g++-6, 	bools, 	worse_case, 	light, 	prop,  	0.0745538234711
+g++-6, 	bools, 	worse_case, 	light, 	std, , 	0.449972701073
+
+g++-6, 	fold, 	best_case, 	heavy, 	prop,  	8.36726410389
+g++-6, 	fold, 	best_case, 	heavy, 	std, , 	0.0393300294876
+g++-6, 	fold, 	worse_case, 	heavy, 	prop,  	8.40669999123
+g++-6, 	fold, 	worse_case, 	heavy, 	std, , 	9.59601311684
+
+g++-6, 	bools, 	best_case, 	heavy, 	prop,  	8.29585678577
+g++-6, 	bools, 	best_case, 	heavy, 	std, , 	0.0383704185486
+g++-6, 	bools, 	worse_case, 	heavy, 	prop,  	8.29444293976
+g++-6, 	bools, 	worse_case, 	heavy, 	std, , 	9.4287484169
+

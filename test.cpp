@@ -81,7 +81,7 @@ namespace heavy
     };
 
     template <std::size_t N>
-    using Type = HeavyType<N, 100>;
+    using Type = HeavyType<N, 50>;
 }
 
 
